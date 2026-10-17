@@ -1,6 +1,5 @@
 # dna.sequence.analysis1
-# Bioinformatics Practice Project: Using public gene expression data to compare biological conditions and create a reproducible scientific report.
-
+# Bioinformatics Practice Project: West Nile Virus
 Overview
 
 This project explores the nucleotide composition of the West Nile Virus genome, made available of NCBI.
