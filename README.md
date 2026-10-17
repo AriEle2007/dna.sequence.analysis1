@@ -35,7 +35,7 @@ It would be waste of time to copy the entire DNA sequence directly into VS, henc
 
 West Nile Virus Short Description
 
-In this case, I'm going to use the genome of the West Nile Virus, a RNA virus which is mosquito-borne, originating in Uganda. 80% of patients will actually show no symptoms, however for vulnerable groups of people, like those over 50-65 years old or with weakened immune systems, it can be deadly. In recent years West Nile Virus has been found even in parts of Europe, including Italy, and in my small town of Varese, where there is an aging population. The west nile virus consists of multiple strains, for the sake of this project I will be using strain 956, as listed on NHI.
+In this case, I'm going to use the genome of the West Nile Virus, a RNA virus which is mosquito-borne, originating in Uganda. 80% of patients will actually show no symptoms, however for vulnerable groups of people, like those over 50-65 years old or with weakened immune systems, it can be deadly. In recent years West Nile Virus has been found even in parts of Europe, including Italy, and in my small town of Varese, where there is an aging population. The West Nile Virus consists of multiple strains, for the sake of this project I will be using strain 956, as listed on NIH.
 
 
 
