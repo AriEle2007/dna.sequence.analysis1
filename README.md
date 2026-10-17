@@ -35,8 +35,8 @@ In this case, I'm going to use the genome of the West Nile Virus, a RNA virus wh
 
 
 Results
-Sequence length: 10962
-GC content: 51.06%
+Sequence length: 10962,
+GC content: 51.06%,
 See WestNileVirusNucleotideAnalysis.png for nucleotide distribution
 
 Limitations
