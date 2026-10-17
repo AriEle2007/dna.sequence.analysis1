@@ -13,6 +13,8 @@ Assembly accession: GCA_000861085.1
 File: GCA_000861085.1_ViralProj15431_genomic.fna
 Organism: West Nile Virus, Strain 956
 
+Note: I used the GenBank file which is the raw data, user-submitted, and non-curated. It can contain high redundancy; including multiple overlapping or duplicate submissions for the same locus and/or hundreds of thousands of diverse, rare, or uncultured species.
+
 Research Questions
 
 What is the nucleotide composition of the selected viral genome?
