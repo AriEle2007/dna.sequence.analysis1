@@ -18,9 +18,19 @@ Note: I used the GenBank file which is the raw data, user-submitted, and non-cur
 
 Research Questions
 
+Part A
+
 What is the nucleotide composition of the selected viral genome?
 What percentage of the sequence consists of guanine (G) and cytosine (C)?
 How are the four nucleotides distributed across the sequence?
+
+Part B
+
+What is the length of the coding sequence?
+
+Part C
+
+How does GC content vary between the coding region and non-coding regions?
 
 Methods
 
